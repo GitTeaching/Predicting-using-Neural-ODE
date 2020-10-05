@@ -12,4 +12,8 @@ Deep Learning - Predicting using Neural Ordinary Differential Equations
 
 - Understanding Neural ODE's : https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
 
+- Neural ODEs: breakdown of another deep learning breakthrough : https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795
+
+- 
+
 - Neural Ordinary Differential Equations in Keras : https://github.com/jason71995/Keras_ODENet
