@@ -1,5 +1,5 @@
 # Predicting-using-Neural-ODE
-Deep Learning - Predicting using Neural Ordinary Differential Equations
+Deep Learning - Predicting using Neural Ordinary Differential Equations - **torchdiffeq**.
 
 
 ### Uderstanding - resources :
