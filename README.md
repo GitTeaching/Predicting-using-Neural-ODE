@@ -1,7 +1,8 @@
 # Predicting-using-Neural-ODE
 Deep Learning - Predicting using Neural Ordinary Differential Equations
 
-Uderstanding - resources :
+
+### Uderstanding - resources :
 
 - Original Paper : https://arxiv.org/abs/1806.07366
 
